@@ -1,0 +1,61 @@
+#logo{
+	allign: left;
+	height: 5%;
+	width: 5%;
+}
+header{
+	background-color: #ccddff;
+	font-family: 'Roboto Slab', serif;
+	}
+#appName{
+	float:left;
+	margin-left:5%;
+	margin-right:2%;
+	font-family: 'Roboto Slab', serif;
+}
+body{
+	background-color:  #f0f5f5;
+}
+#slogan{
+	float: right;
+	margin-right: 3%;
+}
+#knight{
+	float:left;
+	height: 40%;
+	width:30%;
+	margin-left:12%;
+}
+#info{
+	text-align:center;
+	margin-right:15%;
+margin-left:45%;
+margin-top:8%;
+font-family: 'League Spartan', sans-serif;
+}
+form{
+	margin-left:52%;
+	padding:1%;
+}
+footer{
+	margin-top:10%;
+	`float:left;
+	margin-left:3%;
+}
+#typage{
+	font-size:200%;
+	background-color:#ccddff;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+}
+#tybody{
+	background-color:  #f0f5f5;
+}
+#tyimage{
+	margin-left:23%;
+	margin-top: 5%;
+	width:50%;
+}
+
+
+
